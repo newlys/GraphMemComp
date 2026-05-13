@@ -1,0 +1,8 @@
+numpy>=1.24
+networkx>=3.2
+matplotlib>=3.8
+sentence-transformers>=2.7
+openai>=1.30
+qdrant-client>=1.9
+fastapi>=0.111
+uvicorn>=0.30
